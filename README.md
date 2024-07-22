@@ -144,7 +144,7 @@ I'm a final-year Computer Science student with a passion for cybersecurity. I en
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=vectorete&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AndrewDongminYoo&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=vectorete&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vectorete&icon=1&color=11)](https://visitcount.itsvg.in)
