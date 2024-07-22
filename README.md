@@ -138,7 +138,12 @@ I'm a final-year Computer Science student with a passion for cybersecurity. I en
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vectorete&show_icons=true&theme=vision-friendly-dark&hide_border=false&bg_color=00000000)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=vectorete&theme=rising-sun&hide_border=false&mode=weekly)](https://git.io/streak-stats)<br/>
-![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vectorete&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact&bg_color=00000000)
+![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vectorete&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact&bg_color=00000000)<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ## 🏆 GitHub Trophies
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=vectorete&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
