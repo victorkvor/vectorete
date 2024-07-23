@@ -92,8 +92,8 @@ I'm a final-year Computer Science student with a passion for cybersecurity. I en
   <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" alt="SonarQube">
 </div>
 
+<h2>📊 GitHub Stats</h2>
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=vectorete&show_icons=true&theme=vision-friendly-dark&hide_border=false&bg_color=00000000" alt="GitHub Stats"><br/>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=vectorete&theme=rising-sun&hide_border=false&mode=weekly" alt="GitHub Streak">
