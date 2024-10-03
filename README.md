@@ -66,12 +66,6 @@ I'm a final-year Computer Science student with a keen interest in cybersecurity.
 </div>
 
 <div align="center">
-  <h3>📲 Virtualization</h3>
-  <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirtualBox">
-  <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" alt="VMware">
-</div>
-
-<div align="center">
   <h3>✍️ Version Control</h3>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
