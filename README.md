@@ -8,7 +8,7 @@
 I'm a final-year Computer Science student with a keen interest in cybersecurity. I enjoy facing complex problems, solving CTFs, and securing systems. I'm quite skilled in programming languages like C, C++, Java, and web development. I am also familiar with networking, system security, and system administration.
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorkvorkevych) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorkvor) 
 
 ## 💻 Tech Stack
 <div align="center">
