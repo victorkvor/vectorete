@@ -72,31 +72,31 @@ I'm a final-year Computer Science student with a keen interest in cybersecurity.
 
 <h2>📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vectorete&show_icons=true&theme=vision-friendly-dark&hide_border=false&bg_color=00000000" alt="GitHub Stats"><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=victorkvor&show_icons=true&theme=vision-friendly-dark&hide_border=false&bg_color=00000000" alt="GitHub Stats"><br/>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=vectorete&theme=rising-sun&hide_border=false&mode=weekly" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=victorkvor&theme=rising-sun&hide_border=false&mode=weekly" alt="GitHub Streak">
   </a><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vectorete&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact&bg_color=00000000" alt="GitHub Languages"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorkvor&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact&bg_color=00000000" alt="GitHub Languages"><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vectorete/vectorete/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vectorete/vectorete/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/vectorete/vectorete/output/github-contribution-grid-snake.svg" alt="GitHub Snake">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorkvor/victorkvor/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victorkvor/victorkvor/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/victorkvor/victorkvor/output/github-contribution-grid-snake.svg" alt="GitHub Snake">
   </picture>
 </div>
 
 <h2>🏆 GitHub Trophies</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vectorete&theme=monokai&no-frame=false&no-bg=true&margin-w=4" alt="Github Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=victorkvor&theme=monokai&no-frame=false&no-bg=true&margin-w=4" alt="Github Trophies">
 </div>
 
 <h2>🔝 Top Contributed Repo</h2>
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vectorete&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+  <img src="https://github-contributor-stats.vercel.app/api?username=victorkvor&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </div>
 
 ---
 <div align="right">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=vectorete&icon=1&color=11" alt="Visit Count">
+    <img src="https://visitcount.itsvg.in/api?id=victorkvor&icon=1&color=11" alt="Visit Count">
   </a>
 </div>
